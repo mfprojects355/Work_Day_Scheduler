@@ -16,7 +16,7 @@ In the markdown file you need to add a line with the link
 [Deployed Application](This is where the link goes)
 ``` 
 
-## Screnshot
+## Screenshot
 
 ```
 ![screenshot](This is the path to the picture)
